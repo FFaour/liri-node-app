@@ -30,8 +30,8 @@ var movieName = "";
 var getMovie = function(query) {
   // Loop through all the words in the node argument
   // And do a little for-loop magic to handle the inclusion of "+"s
-  if (query === []) {
-    query = "Mr. Nobody";
+  if (query.length === 0) {
+    query = ["Mr. Nobody"];
   };
   for (var i = 0; i < query.length; i++) {
   
