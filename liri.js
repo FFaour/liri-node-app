@@ -61,7 +61,7 @@ var getSong = function(query) {
     if (err) {
       return console.log('Error occurred: ' + err);
     }
-    console.log(data.tracks.items[0]);
+  // console.log(data.tracks.items[0]);
   console.log(data.tracks.items.length + " entries were found for this song title:");
 
   for (i = 0; i < data.tracks.items.length; i++) {
