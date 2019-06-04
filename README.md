@@ -12,7 +12,7 @@ The API's utilized in this program are: OMDB, Bands in Town, and Spotify. You ca
 # How do I use it?
 At your terminal screen type node and then one of the commands below 
 List of useable commands | Space | Followed by a
---------------------------- | ----- | -------------------------------------------------------
+------------------------ | ----- | -------------
 concert-this | <space> | <band> 
 spotify-this-song | <space> | <song title>
 movie-this | <space> | <movie name>
