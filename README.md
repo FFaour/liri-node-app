@@ -11,6 +11,13 @@ The API's utilized in this program are: OMDB, Bands in Town, and Spotify. You ca
 
 # How do I use it?
 At your terminal screen type node and then one of the commands below 
+
+|   Day |   Pre Office Hours | Class | Post Office Hours    |
+|   ----------------------------    | ----------------------------  | ----------------------------  |   ---------------------------- |
+|   Tuesday |   5:45-6:30 | 6:30-9:30 | 9:30-10:00  |
+|   Thursday    |   5:45-6:30 | 6:30-9:30 | 9:30-10:00  |
+|   Saturday    |   9:15-10:00 | 10:00-2:00 | 2:00-2:30 |
+
 | List of useable commands | Space | Followed by a |
 | ------------------------ | ----- | ------------- |
 | concert-this | <space> | <band>  |
