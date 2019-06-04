@@ -14,9 +14,9 @@ At your terminal screen type node and then one of the commands below
 
 | List of useable commands | Space | Followed by a |
 | ------------------------ | ----- | ------------- |
-| concert-this | <space> | <band>  |
-| spotify-this-song | <space> | <song title> |
-| movie-this | <space> | <movie name> |
+| concert-this | <space> | (band)  |
+| spotify-this-song | <space> | (song title) |
+| movie-this | <space> | (movie name) |
 | do-what-it-says | <space> | <leave blank(pulls commands from the random.txt file)> |
  ------------------------------------------------------------------------------------------
 
