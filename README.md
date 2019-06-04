@@ -17,5 +17,6 @@ At your terminal screen type node and then one of the commands below
 | spotify-this-song | <space> | <song title> |
 | movie-this | <space> | <movie name> |
 | do-what-it-says | <space> | <leave blank(pulls commands from the random.txt file)> |
+ ------------------------------------------------------------------------------------------
 
 # Check out the screenshots folder for examples of how Liri works and what the output will look like after running commands
