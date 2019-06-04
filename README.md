@@ -13,9 +13,9 @@ The API's utilized in this program are: OMDB, Bands in Town, and Spotify. You ca
 At your terminal screen type node and then one of the commands below 
 // List of useable commands | Space | Followed by a
 ----------------------------|-------|--------------------------------------------------------
-concert-this | | <band> 
-spotify-this-song | | <song title>
-movie-this | | <movie name>
-do-what-it-says | | <leave blank(pulls commands from the random.txt file)>
+concert-this | <space> | <band> 
+spotify-this-song | <space> | <song title>
+movie-this | <space> | <movie name>
+do-what-it-says | <space> | <leave blank(pulls commands from the random.txt file)>
 
 # Check out the screenshots folder for examples of how Liri works and what the output will look like after running commands
